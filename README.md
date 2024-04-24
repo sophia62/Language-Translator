@@ -1,9 +1,9 @@
 # Language-Translator
-Overview
+##Overview
 
 This project presents a basic Language Translator that converts English sentences into Chinese, and then back to English retaining the Chinese grammatical structure. It is designed to handle the subtle complexities that arise due to syntactic differences between the two languages.
 
-Features
+##Features
 
 Simple CSV-Based Translation: The program utilizes a straightforward CSV file that categorizes words into subjects, verbs, and objects.
 SVO Syntax Support: Both English and Chinese predominantly use the Subject-Verb-Object (SVO) order, facilitating direct translations for simple sentences.
